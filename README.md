@@ -1,4 +1,4 @@
-🏋️‍♂️ Fitness Data Cleaning Project
+**🏋️‍♂️ Fitness Data Cleaning Project**
 
 This project focuses on cleaning and preparing a small fitness tracking dataset for analysis using Python (pandas).
 
