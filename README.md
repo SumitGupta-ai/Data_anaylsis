@@ -30,7 +30,7 @@ Demonstrate practical pandas data cleaning techniques
 
 This notebook focuses on cleaning and preparing the Netflix Movies & TV Shows dataset for further analysis.
 
-📊 Dataset Info
+**📊 Dataset Info**
 
 Contains metadata about Netflix titles such as:
 
@@ -38,7 +38,7 @@ Title, Director, Cast
 
 Country, Release Year, Rating, Duration, etc.
 
-🧠 Features
+**🧠 Features**
 
 Handle missing values and inconsistent text
 
