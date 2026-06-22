@@ -28,7 +28,7 @@ Demonstrate practical pandas data cleaning techniques
 
 🎬 Netflix Data Cleaning Project
 
-This notebook focuses on cleaning and preparing the Netflix Movies & TV Shows dataset for further analysis.
+This notebook focuses on cleaning and preparing the Netflix Movies & TV Shows dataset for further analysis
 
 **📊 Dataset Info**
 
