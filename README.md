@@ -2,7 +2,7 @@
 
 This project focuses on cleaning and preparing a small fitness tracking dataset for analysis using Python (pandas).
 
-***📊Dataset Info***
+**📊Dataset Info**
 
 Contains 32 rows and 5 columns:
 
@@ -16,7 +16,7 @@ Maxpulse
 
 Calories
 
-🧠 Features
+**🧠 Features**
 
 Handle missing values in numeric and date columns
 
