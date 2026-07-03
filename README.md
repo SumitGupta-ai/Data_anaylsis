@@ -47,10 +47,3 @@ Clean and convert date columns
 Simplify rating categories into age groups
 
 Separate movie durations and show seasons
-
-⚙️ Tech Stack
-
-Python 3
-
-pandas library
-   pip install -r requirements.txt
