@@ -1,49 +1,74 @@
-**🏋️‍♂️ Fitness Data Cleaning Project**
+# 🧹 Data Cleaning Projects with Python (Pandas)
 
-This project focuses on cleaning and preparing a small fitness tracking dataset for analysis using Python (pandas).
+This repository contains beginner-friendly data cleaning projects using **Python** and **Pandas**. Each project demonstrates essential preprocessing techniques used to prepare real-world datasets for analysis and visualization.
 
-**📊Dataset Info**
+## 📂 Projects
 
-Contains 32 rows and 5 columns:
+### 🏋️ Fitness Data Cleaning
 
-Duration
+A data cleaning project on a fitness tracking dataset containing **32 rows and 5 columns**.
 
-Date
+#### 📊 Dataset Columns
 
-Pulse
+* Duration
+* Date
+* Pulse
+* Max Pulse
+* Calories
 
-Maxpulse
+#### 🧠 Cleaning Tasks
 
-Calories
+* Handle missing values in numeric and date columns
+* Replace invalid and inconsistent data
+* Convert date values to proper datetime format
+* Detect and remove duplicate records
+* Prepare the dataset for analysis using Pandas
 
-**🧠 Features**
+---
 
-Handle missing values in numeric and date columns
+### 🎬 Netflix Data Cleaning
 
-Replace invalid or inconsistent data
+A data cleaning project based on the **Netflix Movies & TV Shows** dataset.
 
-Convert date values into proper format
+#### 📊 Dataset Features
 
-Demonstrate practical pandas data cleaning techniques
+* Title
+* Director
+* Cast
+* Country
+* Release Year
+* Rating
+* Duration
+* Date Added
+* Genre, and more
 
-🎬 Netflix Data Cleaning Project
+#### 🧠 Cleaning Tasks
 
-This notebook focuses on cleaning and preparing the Netflix Movies & TV Shows dataset for further analysis
+* Handle missing values
+* Clean inconsistent text data
+* Convert date columns to datetime format
+* Simplify ratings into age-group categories
+* Separate movie durations and TV show seasons
+* Remove duplicates and standardize data
 
-**📊 Dataset Info**
+---
 
-Contains metadata about Netflix titles such as:
+## 🛠️ Technologies Used
 
-Title, Director, Cast
+* Python
+* Pandas
+* NumPy
+* Jupyter Notebook
 
-Country, Release Year, Rating, Duration, etc.
+## 🎯 Learning Outcomes
 
-**🧠 Features**
+These projects demonstrate practical data cleaning techniques, including:
 
-Handle missing values and inconsistent text
+* Missing value treatment
+* Data type conversion
+* Duplicate removal
+* Text standardization
+* Feature transformation
+* Data preparation for exploratory data analysis (EDA)
 
-Clean and convert date columns
 
-Simplify rating categories into age groups
-
-Separate movie durations and show seasons
